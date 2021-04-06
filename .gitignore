@@ -1,11 +1,16 @@
-CMakeLists.txt.user
-CMakeCache.txt
-CMakeFiles
-CMakeScripts
-Testing
-Makefile
-cmake_install.cmake
-install_manifest.txt
-compile_commands.json
-CTestTestfile.cmake
-_deps
+# The CDF code
+/cdf38_0-dist/
+
+# Visual Studio
+/.vs/
+/out/
+
+# Visual Studio Code
+/.vscode/
+
+# CMake
+/CMakeSettings.json
+
+# Build
+/build/
+/artifacts/

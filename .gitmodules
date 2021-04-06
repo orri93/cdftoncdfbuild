@@ -1,0 +1,9 @@
+[submodule "extern/netcdf-c"]
+	path = extern/netcdf-c
+	url = https://github.com/Unidata/netcdf-c
+[submodule "extern/cdfbuild"]
+	path = extern/cdfbuild
+	url = https://github.com/orri93/cdfbuild.git
+[submodule "extern/hdf5"]
+	path = extern/hdf5
+	url = https://github.com/HDFGroup/hdf5.git
